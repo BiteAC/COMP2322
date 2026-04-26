@@ -1,0 +1,13 @@
+[2026-04-22 14:20:17] IP: 127.0.0.1 | Requested File: /index.html | Status: 200 OK
+[2026-04-22 14:20:18] IP: 127.0.0.1 | Requested File: /favicon.ico | Status: 404 File Not Found
+[2026-04-22 14:20:33] IP: 127.0.0.1 | Requested File: /test.jpg | Status: 200 OK
+[2026-04-22 14:20:34] IP: 127.0.0.1 | Requested File: /favicon.ico | Status: 404 File Not Found
+[2026-04-22 14:32:51] IP: 127.0.0.1 | Requested File: /favicon.ico | Status: 404 File Not Found
+[2026-04-22 14:53:03] IP: 127.0.0.1 | Requested File: /index.html | Status: 200 OK
+[2026-04-22 14:53:03] IP: 127.0.0.1 | Requested File: /favicon.ico | Status: 404 File Not Found
+[2026-04-22 14:53:48] IP: 127.0.0.1 | Requested File: /test.jpg | Status: 200 OK
+[2026-04-22 14:54:14] IP: 127.0.0.1 | Requested File: /Œﬁ±ÍÃ‚.jpg | Status: 200 OK
+[2026-04-26 11:17:29] IP: 127.0.0.1 | Requested File: /test.jpg | Status: 200 OK
+[2026-04-26 11:17:29] IP: 127.0.0.1 | Requested File: /favicon.ico | Status: 404 File Not Found
+[2026-04-26 11:35:12] IP: 127.0.0.1 | Requested File: /index.html | Status: 200 OK
+[2026-04-26 11:35:13] IP: 127.0.0.1 | Requested File: /favicon.ico | Status: 404 File Not Found
